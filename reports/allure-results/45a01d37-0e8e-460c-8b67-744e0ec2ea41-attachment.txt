@@ -1,0 +1,4 @@
+✅ STEP 1: Got user from API: Leanne Graham
+✅ STEP 2: Browser opened login page
+✅ STEP 3: Filled and submitted form
+✅ STEP 4: UI verified login success!

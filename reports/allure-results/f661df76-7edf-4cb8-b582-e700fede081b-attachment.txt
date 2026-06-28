@@ -1,0 +1,7 @@
+
+--- Starting Full CRUD Flow ---
+✅ CREATE: Post 'Test Post' created and verified
+✅ READ: Fetched post 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'
+✅ UPDATE: Post updated to 'Updated Post'
+✅ DELETE: Post deleted successfully
+--- Full CRUD Flow Complete! ---

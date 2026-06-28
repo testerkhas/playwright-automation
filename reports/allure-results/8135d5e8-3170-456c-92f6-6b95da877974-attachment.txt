@@ -1,0 +1,1 @@
+✅ Protected route correctly blocked without token: 401

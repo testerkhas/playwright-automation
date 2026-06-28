@@ -1,0 +1,1 @@
+✅ Wrong password correctly rejected: Invalid email or password

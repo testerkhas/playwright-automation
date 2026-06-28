@@ -1,0 +1,1 @@
+✅ Deleted user correctly returns 404
