@@ -28,4 +28,4 @@ jobs:
         run: playwright install --with-deps chromium
 
       - name: Run tests
-        run: pytest -v --browser chromium --headless
+        run: pytest -v --browser chromium
