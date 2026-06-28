@@ -1,0 +1,3 @@
+✅ STEP 1: Post created with id: 101
+✅ STEP 2: Response data verified correctly
+✅ STEP 3: Fetched real post: 'sunt aut facere repellat provident occaecati excepturi optio reprehenderit'

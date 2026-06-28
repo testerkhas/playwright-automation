@@ -1,0 +1,1 @@
+✅ Non-existent user correctly returned 404

@@ -29,3 +29,5 @@ jobs:
 
       - name: Run tests
         run: pytest -v --browser chromium
+        env:
+          SKIP_LOCAL_API: "true"

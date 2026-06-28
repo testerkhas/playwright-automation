@@ -1,6 +1,12 @@
 import pytest
 import random
+import os
 from playwright.sync_api import Playwright, APIRequestContext
+
+pytestmark = pytest.mark.skipif(
+    os.getenv("SKIP_LOCAL_API") == "true",
+    reason="Skipping local API tests in CI environment"
+)
 
 BASE_URL = "http://127.0.0.1:8000"
 
